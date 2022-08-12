@@ -1,0 +1,24 @@
+{
+  "name": "week-11-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/navigatorlg/week-11-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/navigatorlg/week-11-api/issues"
+  },
+  "homepage": "https://github.com/navigatorlg/week-11-api#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0"
+  }
+}
