@@ -23,4 +23,3 @@
 
 • USE npm test command in the terminal to run the tests
 
-• CREATE 3 tests to test API: “Should get a new joke upon each request” , “Should get 200 status code response” and “Should get response with base of the url”
